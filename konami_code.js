@@ -12,7 +12,7 @@ function init() {
       index++;
       
       if (index === code.length){
-        alert("Congratulation")
+        alert("Hurray")
         index = 0
       }
       else{
